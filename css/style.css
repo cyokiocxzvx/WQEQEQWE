@@ -2,8 +2,8 @@
     width: 1200;
     height: 900px;
     background-color: green;
-    background-image: url(./img/green-png-44873.png),url(./img/lamp-png-34914.png),url(./img/58eb07b830eab15b56162788.png),url(./img/____.webp),url(./img/pole-zelen-trava-dom-derevya.webp);
+    background-image: url(./img/green-png-44873.png),url(./img/lamp-png-34914.png),url(./img/58eb07b830eab15b56162788.png),url(./img/v.webp),url(./img/pole-zelen-trava-dom-derevya.webp);
 background-repeat: repeat-x,repeat-x,repeat-y,repeat-y,no-repeat;
 background-position: bottom,top,right,left,center;
-background-size: 390px,60px,40px,40px,760px;
+background-size: 390px,60px,40px,50px,760px;
 }
